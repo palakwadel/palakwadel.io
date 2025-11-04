@@ -1,92 +1,124 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Palak Wadel",
+  title: "Senior Technology Consultant | Data & AI",
+  description: "Portfolio website of Palak Wadel — bridging data, analytics, and AI strategy.",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "wadelpalak@gmail.com",
+    linkedin: "https://www.linkedin.com/in/pwad",
+    github: "https://github.com/PalakWadel",
   },
-  aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+
+  hero: {
+    name: "Palak Wadel",
+    subtitle: "Data & AI Solutions | Analytics Strategy | Intelligent Reporting",
+    description: `
+Hi, I'm Palak 👋 — a data and technology professional passionate about building meaningful connections between analytics, AI, and decision-making. 
+I transform complex business data into actionable insights and intelligent systems, from dashboards to AI-powered tools.
+    `
+  },
+
+  aboutMe: `
+I’m Palak Wadel — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy.  
+I specialize in designing and delivering intelligent reporting systems that turn complex data into actionable insights.  
+With experience across analytics engineering, customer success, and implementation delivery, I thrive at the intersection of data storytelling, automation, and applied AI.
+  `,
+
+  skills: [
+    "Power BI",
+    "DAX & Power Query",
+    "SQL",
+    "Snowflake",
+    "Python",
+    "Azure DevOps",
+    "ServiceNow",
+    "Data Modeling",
+    "Reporting Automation",
+    "LLM & AI Enablement",
+    "Requirements Gathering",
+    "Stakeholder Management",
+    "UX for Dashboards",
+    "KPI Development",
+    "Agile & Scrum"
+  ],
+
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "WolfGPT – Enterprise AI Assistant",
+      description: `
+Collaborated on the rollout of WolfGPT, an internal AI assistant enabling users to query enterprise data using natural language.  
+Defined metadata mappings, tested query accuracy, and integrated LLM outputs with Snowflake datasets to produce contextual insights.
+      `,
+      skills: ["LLM Integration", "Snowflake", "Power BI", "Prompt Engineering"]
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "Diamond Analytics Dashboard",
+      description: `
+Designed and implemented Power BI dashboards to monitor gemstone inventory, sales, and supplier performance.  
+Enhanced procurement and merchandising decisions through automated visibility into margins, pricing trends, and demand patterns.
+      `,
+      skills: ["Power BI", "SQL", "Data Modeling", "Inventory Analytics"]
     },
     {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "Spotfire → Power BI Migration Accelerator",
+      description: `
+Led the modernization of legacy Spotfire dashboards to Power BI.  
+Reduced report refresh times, unified data models, and established standardized design principles for financial and procurement analytics.
+      `,
+      skills: ["Power BI", "SQL Server", "Azure DevOps", "Data Governance"]
     },
+    {
+      name: "DoWhistle Freight Management System",
+      description: `
+Delivered the full software lifecycle for a freight management platform — from business analysis to deployment.  
+Optimized SQL-based reporting and streamlined workflows using UML-driven process design.
+      `,
+      skills: ["SQL", "UML", "Business Process Analysis"]
+    }
   ],
+
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Shivam Jewels, Inc.",
+      title: "Data Analyst",
+      dateRange: "Aug 2025 – Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
+        "Building foundational analytics to track sales, inventory, and procurement trends.",
+        "Standardizing POS and supplier data into structured models for accurate business reporting.",
+        "Developing dashboards highlighting pricing trends, demand shifts, and margin opportunities."
+      ]
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Wolfspeed, Inc.",
+      title: "Analytics Systems Engineer",
+      dateRange: "Jun 2023 – Jun 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
+        "Delivered enterprise Power BI solutions supporting global finance and procurement.",
+        "Optimized Snowflake pipelines and metadata alignment with engineering teams.",
+        "Supported the rollout of WolfGPT, mapping natural language queries to accurate enterprise reports."
+      ]
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "DoWhistle",
+      title: "IT Business Analyst",
+      dateRange: "Jul 2022 – Dec 2022",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
-  ],
-  education: [
-    {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+        "Delivered freight management system from concept to launch, ensuring on-time delivery.",
+        "Translated complex business requirements into database architecture and SQL automation.",
+        "Enhanced operational visibility through streamlined reporting."
+      ]
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+      company: "Fiserv, Inc.",
+      title: "Execution Specialist – Professional Services Consulting",
+      dateRange: "Mar 2022 – Jun 2022",
+      bullets: [
+        "Led core banking implementation projects, aligning data and process reengineering.",
+        "Facilitated cross-functional communication across technical, operational, and executive stakeholders.",
+        "Delivered post-go-live hypercare and incident management for financial clients."
+      ]
     },
-  ],
-};
+    {
+      company: "Big Branch Capital, LLC",
+      title: "Research Analyst",
+      dat
