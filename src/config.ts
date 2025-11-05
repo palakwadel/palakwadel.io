@@ -1,29 +1,14 @@
 export const siteConfig = {
   name: "Palak Wadel",
-  title: "Senior Technology Consultant | Data & AI",
-  description: "Portfolio website of Palak Wadel — bridging data, analytics, and AI strategy.",
+  title: "Senior Technology Consultant",
+  description: "Portfolio website of Palak Wadel",
   accentColor: "#1d4ed8",
   social: {
     email: "wadelpalak@gmail.com",
     linkedin: "https://www.linkedin.com/in/pwad",
-    github: "https://github.com/PalakWadel",
+    github: "https://github.com/PalakWadel"
   },
-
-  hero: {
-    name: "Palak Wadel",
-    subtitle: "Data & AI Solutions | Analytics Strategy | Intelligent Reporting",
-    description: `
-Hi, I'm Palak 👋 — a data and technology professional passionate about building meaningful connections between analytics, AI, and decision-making. 
-I transform complex business data into actionable insights and intelligent systems, from dashboards to AI-powered tools.
-    `
-  },
-
-  aboutMe: `
-I’m Palak Wadel — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy.  
-I specialize in designing and delivering intelligent reporting systems that turn complex data into actionable insights.  
-With experience across analytics engineering, customer success, and implementation delivery, I thrive at the intersection of data storytelling, automation, and applied AI.
-  `,
-
+  aboutMe: "I’m Palak Wadel — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I specialize in designing and delivering intelligent reporting systems that turn complex data into actionable insights. With experience across analytics engineering, customer success, and implementation delivery, I thrive at the intersection of data storytelling, automation, and applied AI.",
   skills: [
     "Power BI",
     "DAX & Power Query",
@@ -41,51 +26,41 @@ With experience across analytics engineering, customer success, and implementati
     "KPI Development",
     "Agile & Scrum"
   ],
-
   projects: [
     {
       name: "WolfGPT – Enterprise AI Assistant",
-      description: `
-Collaborated on the rollout of WolfGPT, an internal AI assistant enabling users to query enterprise data using natural language.  
-Defined metadata mappings, tested query accuracy, and integrated LLM outputs with Snowflake datasets to produce contextual insights.
-      `,
+      description: "Collaborated on the rollout of WolfGPT, an internal AI assistant designed to enable business users to query enterprise data using natural language. Contributed to defining metadata mappings, testing query accuracy, and integrating LLM outputs with Snowflake datasets for contextual insights.",
+      link: "#",
       skills: ["LLM Integration", "Snowflake", "Power BI", "Prompt Engineering"]
     },
     {
       name: "Diamond Analytics Dashboard",
-      description: `
-Designed and implemented Power BI dashboards to monitor gemstone inventory, sales, and supplier performance.  
-Enhanced procurement and merchandising decisions through automated visibility into margins, pricing trends, and demand patterns.
-      `,
+      description: "Designed and implemented Power BI dashboards for Shivam Jewels to monitor gemstone inventory, sales, and supplier performance. Improved decision-making for procurement and merchandising through automated visibility into margins and demand trends.",
+      link: "#",
       skills: ["Power BI", "SQL", "Data Modeling", "Inventory Analytics"]
     },
     {
-      name: "Spotfire → Power BI Migration Accelerator",
-      description: `
-Led the modernization of legacy Spotfire dashboards to Power BI.  
-Reduced report refresh times, unified data models, and established standardized design principles for financial and procurement analytics.
-      `,
+      name: "Spotfire to Power BI Migration Accelerator",
+      description: "Led analytics modernization by transitioning legacy Spotfire dashboards to Power BI. Improved report refresh time, unified data models, and introduced standardized design principles for financial and procurement analytics.",
+      link: "#",
       skills: ["Power BI", "SQL Server", "Azure DevOps", "Data Governance"]
     },
     {
       name: "DoWhistle Freight Management System",
-      description: `
-Delivered the full software lifecycle for a freight management platform — from business analysis to deployment.  
-Optimized SQL-based reporting and streamlined workflows using UML-driven process design.
-      `,
+      description: "Delivered full software lifecycle for a freight management solution — from business analysis to deployment. Optimized SQL-based reports and streamlined workflows through UML-driven process redesign.",
+      link: "#",
       skills: ["SQL", "UML", "Business Process Analysis"]
     }
   ],
-
   experience: [
     {
       company: "Shivam Jewels, Inc.",
       title: "Data Analyst",
       dateRange: "Aug 2025 – Present",
       bullets: [
-        "Building foundational analytics to track sales, inventory, and procurement trends.",
-        "Standardizing POS and supplier data into structured models for accurate business reporting.",
-        "Developing dashboards highlighting pricing trends, demand shifts, and margin opportunities."
+        "Building foundational analytics for a growing diamond company to track sales, inventory, and procurement trends.",
+        "Standardizing raw POS and supplier data into structured models for accurate business reporting.",
+        "Developing dashboards that highlight pricing trends, demand shifts, and margin opportunities."
       ]
     },
     {
@@ -93,9 +68,9 @@ Optimized SQL-based reporting and streamlined workflows using UML-driven process
       title: "Analytics Systems Engineer",
       dateRange: "Jun 2023 – Jun 2025",
       bullets: [
-        "Delivered enterprise Power BI solutions supporting global finance and procurement.",
-        "Optimized Snowflake pipelines and metadata alignment with engineering teams.",
-        "Supported the rollout of WolfGPT, mapping natural language queries to accurate enterprise reports."
+        "Led end-to-end delivery of enterprise Power BI solutions supporting global finance and procurement.",
+        "Collaborated with engineers to optimize Snowflake pipelines and metadata alignment.",
+        "Participated in the rollout of WolfGPT, mapping natural language queries to accurate report results."
       ]
     },
     {
@@ -103,9 +78,9 @@ Optimized SQL-based reporting and streamlined workflows using UML-driven process
       title: "IT Business Analyst",
       dateRange: "Jul 2022 – Dec 2022",
       bullets: [
-        "Delivered freight management system from concept to launch, ensuring on-time delivery.",
+        "Delivered freight management system from concept to launch, ensuring on-time project delivery and workflow efficiency.",
         "Translated complex business requirements into database architecture and SQL automation.",
-        "Enhanced operational visibility through streamlined reporting."
+        "Improved data visibility for operational teams through streamlined reporting."
       ]
     },
     {
@@ -113,13 +88,13 @@ Optimized SQL-based reporting and streamlined workflows using UML-driven process
       title: "Execution Specialist – Professional Services Consulting",
       dateRange: "Mar 2022 – Jun 2022",
       bullets: [
-        "Led core banking implementation projects, aligning data and process reengineering.",
-        "Facilitated cross-functional communication across technical, operational, and executive stakeholders.",
-        "Delivered post-go-live hypercare and incident management for financial clients."
+        "Led enterprise-scale core banking implementation projects aligning data and process reengineering.",
+        "Facilitated cross-functional communication across technical and executive teams.",
+        "Delivered post-go-live hypercare and incident management for large financial clients."
       ]
     },
     {
-company: "Big Branch Capital, LLC",
+      company: "Big Branch Capital, LLC",
       title: "Research Analyst",
       dateRange: "May 2021 – Dec 2021",
       bullets: [
@@ -134,18 +109,13 @@ company: "Big Branch Capital, LLC",
       school: "CUNY Baruch College, New York City",
       degree: "Master of Science in Information Systems with Cybersecurity",
       dateRange: "Graduated",
-      achievements: [
-        "President of Cybersecurity Club"
-      ]
+      achievements: ["President of Cybersecurity Club"]
     },
     {
       school: "LIM College, New York City",
       degree: "Bachelor of Business Administration, Business",
       dateRange: "Graduated",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters"
-      ]
+      achievements: ["Graduated Magna Cum Laude with 3.8 GPA", "Dean's List all semesters"]
     }
   ],
   certifications: [
