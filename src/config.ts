@@ -119,6 +119,40 @@ Optimized SQL-based reporting and streamlined workflows using UML-driven process
       ]
     },
     {
-      company: "Big Branch Capital, LLC",
+company: "Big Branch Capital, LLC",
       title: "Research Analyst",
-      dat
+      dateRange: "May 2021 – Dec 2021",
+      bullets: [
+        "Conducted qualitative and quantitative evaluations of target companies for investment strategy.",
+        "Produced data-backed market briefs supporting leadership’s investment decisions.",
+        "Analyzed industry and regulatory trends to identify high-growth opportunities."
+      ]
+    }
+  ],
+  education: [
+    {
+      school: "CUNY Baruch College, New York City",
+      degree: "Master of Science in Information Systems with Cybersecurity",
+      dateRange: "Graduated",
+      achievements: [
+        "President of Cybersecurity Club"
+      ]
+    },
+    {
+      school: "LIM College, New York City",
+      degree: "Bachelor of Business Administration, Business",
+      dateRange: "Graduated",
+      achievements: [
+        "Graduated Magna Cum Laude with 3.8 GPA",
+        "Dean's List all semesters"
+      ]
+    }
+  ],
+  certifications: [
+    "Microsoft Power BI Data Analyst Associate",
+    "IBM Cybersecurity Analyst",
+    "AWS Certified Cloud Practitioner",
+    "Business Intelligence & Data Analysis – CFI",
+    "PMP (Planned)"
+  ]
+};
