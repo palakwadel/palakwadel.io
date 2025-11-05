@@ -1,4 +1,3 @@
-console.log("CONFIG TS LOADED");
 export const siteConfig = {
   name: "Palak Wadel",
   title: "Senior Technology Consultant",
