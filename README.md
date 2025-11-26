@@ -26,20 +26,19 @@ Data Modeling • Reporting Automation • LLM & AI Enablement • UX for Dashbo
 
 1. **Enterprise AI Assistant**  
    Internal AI assistant to query enterprise data using natural language. Integrated LLM outputs with Snowflake for contextual insights.  
-   🔗 #  
+ 
 
 2. **Diamond Analytics Dashboard**  
    Power BI dashboards for Shivam Jewels tracking inventory, sales, and supplier performance.  
-   🔗 #  
+  
 
 3. **Spotfire → Power BI Migration Accelerator**  
    Modernized analytics by migrating Spotfire dashboards to Power BI. Standardized design principles for finance & procurement analytics.  
-   🔗 #  
-
-4. **Freight Management System**  
+   
+   
+5. **Freight Management System**  
    Full lifecycle delivery of a freight management system. Optimized SQL reports & redesigned workflows.  
-   🔗 #  
-
+   
 ---
 
 ## 🏢 Experience
