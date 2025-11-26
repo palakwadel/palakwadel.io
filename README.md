@@ -1,4 +1,4 @@
-# Palak Wadel – Senior Technology Consultant
+# Palak Wadel – Portfolio
 
 ![Portfolio Preview](public/preview.png)
 
