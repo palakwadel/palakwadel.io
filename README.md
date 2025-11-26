@@ -1,7 +1,5 @@
 # Palak Wadel Portfolio
 
-![Portfolio Preview](./public/preview.png)  
-
 Hi! I’m **Palak Wadel** — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I turn complex data into actionable insights and craft intelligent reporting systems.
 
 > 🚀 Senior Technology Consultant | Power BI & Data Storytelling | LLM & AI Enablement
