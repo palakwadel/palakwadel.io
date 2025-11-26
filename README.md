@@ -1,70 +1,112 @@
-# Palak Wadel Portfolio
+# Palak Wadel – Portfolio
 
-Hi! I’m **Palak Wadel** — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I turn complex data into actionable insights and craft intelligent reporting systems.
+![Portfolio Preview](public/preview.png)
 
-> 🚀 Senior Technology Consultant | Power BI & Data Storytelling | LLM & AI Enablement
-
----
-
-## 🔹 Connect With Me
- 
-- LinkedIn: [linkedin.com/in/pwad](https://www.linkedin.com/in/pwad)  
-- GitHub: [github.com/PalakWadel](https://github.com/PalakWadel)  
+A modern, minimalist portfolio website built with Astro and Tailwind CSS. This site showcases my work, experience, and skills in data analytics, technology solutions, and AI enablement.
 
 ---
 
-## 💻 Skills
+## About Me
 
-Power BI • DAX & Power Query • SQL • Snowflake • Python • Azure DevOps • ServiceNow  
-Data Modeling • Reporting Automation • LLM & AI Enablement • UX for Dashboards • KPI Development  
-
----
-
-## 🏆 Projects
-
-1. **Enterprise AI Assistant**  
-   Internal AI assistant to query enterprise data using natural language. Integrated LLM outputs with Snowflake for contextual insights.  
- 
-
-2. **Diamond Analytics Dashboard**  
-   Power BI dashboards for Shivam Jewels tracking inventory, sales, and supplier performance.  
-  
-
-3. **Spotfire → Power BI Migration Accelerator**  
-   Modernized analytics by migrating Spotfire dashboards to Power BI. Standardized design principles for finance & procurement analytics.  
-   
-   
-5. **Freight Management System**  
-   Full lifecycle delivery of a freight management system. Optimized SQL reports & redesigned workflows.  
-   
----
-
-## 🏢 Experience
-
-- **Shivam Jewels, Inc.** – Data Analyst
-- **Wolfspeed, Inc.** – Analytics Systems Engineer 
-- **DoWhistle** – IT Business Analyst 
-- **Fiserv, Inc.** – Execution Specialist  
-- **Big Branch Capital, LLC** – Research Analyst 
-
-> Detailed bullets available in the site config.
+I’m Palak Wadel — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I specialize in designing and delivering intelligent reporting systems that turn complex data into actionable insights. With experience across analytics engineering, customer success, and implementation delivery, I thrive at the intersection of data storytelling, automation, and applied AI.
 
 ---
 
-## 🎓 Education
+## Skills
 
-- **CUNY Baruch College** – M.S. in Information Systems (Cybersecurity)  
-- **LIM College** – B.B.A., Business (Magna Cum Laude, 3.8 GPA)  
+- Power BI  
+- DAX & Power Query  
+- SQL  
+- Snowflake  
+- Python  
+- Azure DevOps  
+- ServiceNow  
+- Data Modeling  
+- Reporting Automation  
+- LLM & AI Enablement  
+- Requirements Gathering  
+- Stakeholder Management  
+- UX for Dashboards  
+- KPI Development  
+- Agile & Scrum  
 
 ---
 
-## 📜 Certifications
+## Projects
 
-Microsoft Power BI Data Analyst Associate • IBM Cybersecurity Analyst • AWS Cloud Practitioner  
-Business Intelligence & Data Analysis (CFI) • PMP (Planned)  
+### WolfGPT – Enterprise AI Assistant
+Collaborated on the rollout of WolfGPT, an internal AI assistant designed to enable business users to query enterprise data using natural language. Contributed to defining metadata mappings, testing query accuracy, and integrating LLM outputs with Snowflake datasets for contextual insights.  
+**Skills:** LLM Integration, Snowflake, Power BI, Prompt Engineering  
+
+### Diamond Analytics Dashboard
+Designed and implemented Power BI dashboards for Shivam Jewels to monitor gemstone inventory, sales, and supplier performance. Improved decision-making for procurement and merchandising through automated visibility into margins and demand trends.  
+**Skills:** Power BI, SQL, Data Modeling, Inventory Analytics  
+
+### Spotfire to Power BI Migration Accelerator
+Led analytics modernization by transitioning legacy Spotfire dashboards to Power BI. Improved report refresh time, unified data models, and introduced standardized design principles for financial and procurement analytics.  
+**Skills:** Power BI, SQL Server, Azure DevOps, Data Governance  
+
+### DoWhistle Freight Management System
+Delivered full software lifecycle for a freight management solution — from business analysis to deployment. Optimized SQL-based reports and streamlined workflows through UML-driven process redesign.  
+**Skills:** SQL, UML, Business Process Analysis  
 
 ---
 
-## ⚡ License
+## Experience
 
-MIT License © 2025 Palak Wadel
+### Shivam Jewels, Inc. – Data Analyst
+- Building foundational analytics to track sales, inventory, and procurement trends  
+- Standardizing raw POS and supplier data into structured models  
+- Developing dashboards highlighting pricing trends, demand shifts, and margin opportunities
+
+### Wolfspeed, Inc. – Analytics Systems Engineer
+- Led end-to-end delivery of enterprise Power BI solutions  
+- Collaborated with engineers to optimize Snowflake pipelines and metadata alignment  
+- Participated in WolfGPT rollout, mapping natural language queries to accurate report results
+
+### DoWhistle – IT Business Analyst
+- Delivered freight management system from concept to launch  
+- Translated complex business requirements into database architecture and SQL automation  
+- Improved operational visibility through streamlined reporting
+
+### Fiserv, Inc. – Execution Specialist, Professional Services Consulting  
+- Led core banking implementation projects  
+- Facilitated cross-functional communication across technical and executive teams  
+- Delivered post-go-live hypercare and incident management
+
+### Big Branch Capital, LLC – Research Analyst
+- Conducted qualitative and quantitative evaluations of target companies  
+- Produced data-backed market briefs for leadership  
+- Analyzed industry and regulatory trends to identify high-growth opportunities
+
+---
+
+## Education
+
+- **CUNY Baruch College, New York City** – Master of Science in Information Systems with Cybersecurity  
+  - President of Cybersecurity Club
+
+- **LIM College, New York City** – Bachelor of Business Administration, Business  
+  - Graduated Magna Cum Laude with 3.8 GPA  
+  - Dean's List all semesters
+
+---
+
+## Certifications
+
+- Microsoft Power BI Data Analyst Associate  
+- IBM Cybersecurity Analyst  
+- AWS Certified Cloud Practitioner  
+- Business Intelligence & Data Analysis – CFI  
+- PMP (Planned)
+
+---
+
+## Deployment
+
+This site is built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/). You can run it locally or deploy to any static hosting platform:
+
+### Run locally
+```bash
+npm install
+npm run dev -- --host
