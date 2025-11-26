@@ -1,56 +1,73 @@
 # Palak Wadel Portfolio
 
-Hi, I’m **Palak Wadel** — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I specialize in turning complex data into actionable insights and building intelligent reporting systems.
+![Portfolio Preview](./public/preview.png)  
 
-## Skills
+Hi! I’m **Palak Wadel** — a data analytics and technology solutions professional passionate about bridging analytics, AI, and business strategy. I turn complex data into actionable insights and craft intelligent reporting systems.
 
-- Power BI, DAX & Power Query, SQL, Snowflake, Python  
-- Azure DevOps, ServiceNow, Data Modeling, Reporting Automation  
-- LLM & AI Enablement, UX for Dashboards, KPI Development, Agile & Scrum  
+> 🚀 Senior Technology Consultant | Power BI & Data Storytelling | LLM & AI Enablement
 
-## Projects
+---
+
+## 🔹 Connect With Me
+ 
+- LinkedIn: [linkedin.com/in/pwad](https://www.linkedin.com/in/pwad)  
+- GitHub: [github.com/PalakWadel](https://github.com/PalakWadel)  
+
+---
+
+## 💻 Skills
+
+Power BI • DAX & Power Query • SQL • Snowflake • Python • Azure DevOps • ServiceNow  
+Data Modeling • Reporting Automation • LLM & AI Enablement • UX for Dashboards • KPI Development  
+
+---
+
+## 🏆 Projects
 
 1. **Enterprise AI Assistant**  
-   Enabled business users to query enterprise data using natural language, integrating LLM outputs with Snowflake datasets for contextual insights.
+   Internal AI assistant to query enterprise data using natural language. Integrated LLM outputs with Snowflake for contextual insights.  
+   🔗 #  
 
 2. **Diamond Analytics Dashboard**  
-   Designed Power BI dashboards for Shivam Jewels to monitor inventory, sales, and supplier performance, improving procurement and merchandising decisions.
+   Power BI dashboards for Shivam Jewels tracking inventory, sales, and supplier performance.  
+   🔗 #  
 
-3. **Spotfire to Power BI Migration Accelerator**  
-   Modernized legacy Spotfire dashboards into Power BI, unifying data models and standardizing financial and procurement analytics.
+3. **Spotfire → Power BI Migration Accelerator**  
+   Modernized analytics by migrating Spotfire dashboards to Power BI. Standardized design principles for finance & procurement analytics.  
+   🔗 #  
 
 4. **Freight Management System**  
-   Delivered a freight management solution from business analysis to deployment, optimizing SQL-based reports and streamlining workflows.
+   Full lifecycle delivery of a freight management system. Optimized SQL reports & redesigned workflows.  
+   🔗 #  
 
-## Experience
+---
 
-- **Shivam Jewels, Inc.** – Data Analyst   
-  Building analytics to track sales, inventory, and procurement trends, and developing dashboards highlighting key business insights.
+## 🏢 Experience
 
-- **Wolfspeed, Inc.** – Analytics Systems Engineer  
-  Delivered enterprise Power BI solutions, optimized Snowflake pipelines, and supported the rollout of WolfGPT AI assistant.
-
+- **Shivam Jewels, Inc.** – Data Analyst
+- **Wolfspeed, Inc.** – Analytics Systems Engineer 
 - **DoWhistle** – IT Business Analyst 
-  Managed freight system delivery, translated business requirements into SQL automation, and improved operational reporting.
+- **Fiserv, Inc.** – Execution Specialist  
+- **Big Branch Capital, LLC** – Research Analyst 
 
-- **Fiserv, Inc.** – Execution Specialist 
-  Led enterprise-scale core banking projects, facilitated cross-functional communication, and delivered post-go-live hypercare.
+> Detailed bullets available in the site config.
 
-- **Big Branch Capital, LLC** – Research Analyst  
-  Conducted market evaluations, produced data-backed briefs, and identified high-growth opportunities.
+---
 
-## Education
+## 🎓 Education
 
-- **CUNY Baruch College, NYC** – MS Information Systems w/ Cybersecurity  
-  President of Cybersecurity Club
+- **CUNY Baruch College** – M.S. in Information Systems (Cybersecurity)  
+- **LIM College** – B.B.A., Business (Magna Cum Laude, 3.8 GPA)  
 
-- **LIM College, NYC** – BBA Business, Magna Cum Laude  
-  Dean's List all semesters
+---
 
-## Certifications
+## 📜 Certifications
 
-Microsoft Power BI Data Analyst | IBM Cybersecurity Analyst | AWS Cloud Practitioner | CFI Business Intelligence | PMP (Planned)
+Microsoft Power BI Data Analyst Associate • IBM Cybersecurity Analyst • AWS Cloud Practitioner  
+Business Intelligence & Data Analysis (CFI) • PMP (Planned)  
 
+---
 
+## ⚡ License
 
-© 2025 Palak Wadel
+MIT License © 2025 Palak Wadel
